@@ -1,6 +1,6 @@
 # Arc Theme Wal
 
-This is a fork of the Arc theme that is able to be colored by pywal!
+This is a fork of the Arc theme that is able to be colored by [pywal!](https://github.com/dylanaraps/pywal)
 
 ## Arc Wal is available in three variants 
 
@@ -19,7 +19,7 @@ This is a fork of the Arc theme that is able to be colored by pywal!
 
 ### Installation
 
-**Note:** After installation you will need to run pywal for it to theme the colors.
+**Note:** After installation you will need to run [pywal](https://github.com/dylanaraps/pywal) for it to theme the colors.
 
 To build the theme the follwing packages are required 
 * `autoconf`
